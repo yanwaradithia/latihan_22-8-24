@@ -1,0 +1,10 @@
+.main-content{
+    background-color: bisque;
+}
+
+.main-title{
+    display: flex;
+    height: 100px;
+    justify-content: space-between;
+    align-items: center;
+}
